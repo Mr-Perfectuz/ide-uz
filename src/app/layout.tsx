@@ -9,6 +9,7 @@ import {
   SignedOut,
   UserButton,
 } from '@clerk/nextjs'
+import ConvexClientProvider from "@/components/providers/ConvexClientProvider";
  
 
 const geistSans = localFont({
@@ -38,7 +39,10 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <ConvexClientProvider>
+          {children}
+        </ConvexClientProvider>
+        
       </body>
     </html>
     </ClerkProvider>
