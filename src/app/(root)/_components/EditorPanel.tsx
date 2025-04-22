@@ -8,8 +8,8 @@ import Image from "next/image";
 import { RotateCcwIcon, ShareIcon, TypeIcon } from "lucide-react";
 import { useClerk } from "@clerk/nextjs";
 import useMounted from "@/hooks/useMounted";
-import EditorPanelSkeleton from "./EditorPanelSkeleton";
 import ShareSnippetDialog from "./ShareSnippetDialog";
+import { EditorPanelSkeleton } from "./EditorPanelSkeleton";
 
 function EditorPanel() {
   const clerk = useClerk();
