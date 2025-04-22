@@ -41,9 +41,8 @@ export const useCodeEditorStore = create<CodeEditorState>((set, get) => {
     setEditor: (editor: Monaco) => {
       const savedCode = localStorage.getItem(`editor-code-${get().language}`);
       if (savedCode) editor.setValue(savedCode);
-
       set({ editor });
-    },
+    }, 
 
     setTheme: (theme: string) => {
       localStorage.setItem("editor-theme", theme);
