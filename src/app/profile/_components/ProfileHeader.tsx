@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { useQuery } from "convex/react";
 import { api } from "../../../../convex/_generated/api";
 import {
