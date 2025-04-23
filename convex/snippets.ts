@@ -156,7 +156,6 @@ export const getSnippetById = query({
   handler: async (ctx, args) => {
     const snippet = await ctx.db.get(args.snippetId);
     if (!snippet) throw new Error("Snippet not found");
-
     return snippet;
   },
 });

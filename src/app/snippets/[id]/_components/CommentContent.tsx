@@ -9,7 +9,7 @@ function CommentContent({ content }: { content: string }) {
       {parts.map((part, index) => {
         if (part.startsWith("```")) {
           //           ```javascript
-          // const name = "John";
+          // const name = "Anvarbek";
           // ```
           const match = part.match(/```([\w-]*)\n([\s\S]*?)\n```/);
 
