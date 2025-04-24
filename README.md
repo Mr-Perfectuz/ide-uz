@@ -114,7 +114,8 @@ Ide-uz is optimized for deployment on platforms like **Vercel**, but can also ru
 
 ## 🧠 Credits
 
-Built by Anvarbek ❤️
+Built by [Anvarbek ❤️](https://github.com/Mr-Perfectuz/ide-uz/tree/dev)
+Special thanks to the open-source community and libraries that power this platform.
 
 ---
 
