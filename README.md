@@ -134,7 +134,6 @@ MIT License. Feel free to fork and build your own version of Ide-uz!
         <img src="public/home.png">
         <img src="public/theme.png">
         <img src="public/language.png">
-        <img src="public/language.png">
         <img src="public/snippets.png">
         <img src="public/profile.png">
         <img src="public/starred_snippets.png">
