@@ -127,7 +127,6 @@ Special thanks to the open-source community and libraries that power this platfo
 
 ## 📃 License
 
-![alt text](image.png)
 MIT License. Feel free to fork and build your own version of Ide-uz!
 
 <p align="center">
