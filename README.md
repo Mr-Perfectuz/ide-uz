@@ -1,5 +1,11 @@
 # Ide-uz
 
+<p align="center">
+    <a href="/">
+        <img src="public/snippets.png">
+    </a>
+</p>
+
 **Ide-uz** is a modern, full-featured web-based code editor and collaborative platform built using **Next.js 15**, **React 19**, and **Monaco Editor**. It supports real-time coding, syntax highlighting, secure authentication, and snappy UI animations to create a productive developer experience.
 
 ---
@@ -121,4 +127,19 @@ Special thanks to the open-source community and libraries that power this platfo
 
 ## 📃 License
 
+![alt text](image.png)
 MIT License. Feel free to fork and build your own version of Ide-uz!
+
+<p align="center">
+    <a href="/">
+        <img src="public/home.png">
+        <img src="public/theme.png">
+        <img src="public/language.png">
+        <img src="public/language.png">
+        <img src="public/snippets.png">
+        <img src="public/profile.png">
+        <img src="public/starred_snippets.png">
+        <img src="public/share.png">
+        <img src="public/comment.png">
+    </a>
+</p>
